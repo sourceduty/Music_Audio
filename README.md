@@ -50,3 +50,5 @@ Music, audio, and instruments form an intricate and dynamic tapestry that has ev
 [Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
 <br>
 [Chain Lyrics](https://chatgpt.com/g/g-seiWveVey-chain-lyrics)
+<br>
+[Music Geek](https://chatgpt.com/g/g-682e1fd77b748191a160499ae76a282a-music-geek)
