@@ -1,0 +1,33 @@
+Example Song Analysis: "Shape of You" by Ed Sheeran
+
+Word Statistics:
+- Total Words: 322
+- Unique Words: 153
+- Repetition Rate: 52.5% (e.g., "love" is repeated 16 times)
+- Most Repeated Word: "love" (16 occurrences)
+- Average Word Length: 4.2 characters
+
+Phrase Repetition:
+- Chorus Hook: "I'm in love with the shape of you" repeats 6 times.
+- Common Phrases: 
+  - "I'm in love" (8 times)
+  - "The club isn't" (3 times)
+
+Word Usage:
+- Nouns: 45% (e.g., "club," "shape," "body")
+- Verbs: 30% (e.g., "push," "pull," "love")
+- Adjectives: 15% (e.g., "magnetic," "beautiful")
+- Other: 10% (e.g., "oh," "na-na")
+
+Semantic Analysis:
+- Themes: Romance, physical attraction, nightlife
+- Tone: Playful, intimate, upbeat
+- Imagery: Strong use of sensory details (e.g., "the shape of you," "your body’s like a magnet too")
+
+Lyrical Creativity:
+- Complexity: Moderate (some vivid imagery but simple syntax)
+- Memorability: High (repetition of catchy phrases in the chorus)
+
+Overall Lyrical Rating: 8/10
+- Strengths: Strong theme, memorable hook, and effective repetition.
+- Weaknesses: Relatively simple vocabulary, limited narrative depth.
