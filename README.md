@@ -20,6 +20,23 @@ Music, audio, and instruments form an intricate and dynamic tapestry that has ev
 
 [Musical Tuner](https://chatgpt.com/g/g-682d2c85f0748191ae9d6becf155cb41-musical-tuner) was developed to assist users in developing terminal-based programs for tuning musical instruments. It provides step-by-step guidance in creating scripts and algorithms for accurately tuning a variety of instruments, including stringed instruments like guitars and violins, wind instruments, and even digital instruments. The GPT focuses on incorporating features such as real-time frequency analysis, sound-wave recognition, pitch detection, and user-friendly terminal output, which includes graphical frequency displays, text-based feedback, and audio output. It also offers support for different programming languages like Python, C, and Bash, with the integration of libraries such as pydub, aubio, numpy, and scipy for audio processing and pitch detection. The GPT is versatile in targeting various operating systems, including Linux, macOS, and Windows, and is capable of accommodating advanced features such as custom tunings, temperaments, and instrument presets. Additionally, it emphasizes precision in frequency detection, efficiency in running on diverse devices, and scalability for more complex systems, while also guiding users through error handling, debugging, and program optimization.
 
+<br>
+
+| **Tuner Type**             | **Instruments**                                     |
+|----------------------------|-----------------------------------------------------|
+| **Chromatic Tuner**         | Guitars, Violins, Pianos, Wind Instruments (general use) |
+| **Guitar Tuner**            | Electric Guitar, Acoustic Guitar, Bass Guitar      |
+| **Violin Tuner**            | Violin, Viola, Cello                               |
+| **Piano Tuner**             | Piano, Keyboard                                    |
+| **Bass Tuner**              | Electric Bass, Upright Bass                        |
+| **Band/Orchestral Tuner**   | Wind Instruments (Flute, Clarinet, Saxophone, etc.) |
+| **Custom Tuning Tuner**     | Guitars (for non-standard tunings)                 |
+| **Pitch Detection Tuner**   | Digital Instruments, Synthesizers, Microphones     |
+| **Clip-On Tuner**           | Guitars, Bass, Ukulele, Violin                     |
+| **Strobe Tuner**            | Guitars, Violins, Pianos, Highly-precise applications |
+| **MIDI Tuner**              | Digital Instruments (MIDI-based)                   |
+| **Smartphone App Tuner**    | Guitars, Violins, Wind Instruments, General use    |
+
 #
 ![Maple Stage](https://github.com/user-attachments/assets/2a71186e-df43-4457-a09f-157c864879f8)
 #
