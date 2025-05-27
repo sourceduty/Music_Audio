@@ -57,6 +57,12 @@ Music, audio, and instruments form an intricate and dynamic tapestry that has ev
 
 #
 
+![Soundboard Dev](https://github.com/user-attachments/assets/045a3c95-298e-4a5d-82b1-1d107f5ad0ea)
+
+[Soundboard Dev](https://chatgpt.com/g/g-68350a4161f48191a29da6184e3614f0-soundboard-dev) was made to assist in the research and development of soundboard software across platforms such as desktop, mobile, and web. It specializes in identifying user needs, evaluating current trends, and analyzing existing soundboard tools to recommend best practices for building high-performance, intuitive, and scalable audio playback applications. Soundboard Dev offers technical guidance on implementing essential features like drag-and-drop sound uploading, real-time effects, multi-track playback, custom keybindings, and cloud synchronization. It is well-versed in audio libraries (e.g., Web Audio API, JUCE, FMOD) and cross-platform frameworks (e.g., Electron, Flutter, React Native), and provides expert advice on file management, deployment, accessibility, and UI/UX design with a strong emphasis on low-latency interactions and future-proofing. Whether generating code, recommending hosting solutions, or writing documentation, this GPT ensures that every aspect of soundboard development is optimized for both performance and user experience.
+
+#
+
 [Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
 <br>
 [Chain Lyrics](https://chatgpt.com/g/g-seiWveVey-chain-lyrics)
