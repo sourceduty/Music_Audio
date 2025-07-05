@@ -85,3 +85,5 @@ This high-octane portable touchscreen MP3 player is a rock ‘n’ roll dream ma
 [Chain Lyrics](https://chatgpt.com/g/g-seiWveVey-chain-lyrics)
 <br>
 [Music Geek](https://chatgpt.com/g/g-682e1fd77b748191a160499ae76a282a-music-geek)
+<br>
+[Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
